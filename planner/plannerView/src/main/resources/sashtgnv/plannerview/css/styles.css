@@ -1,0 +1,16 @@
+.focused{
+    -fx-border-width: 2;
+    -fx-border-color:black;
+}
+.today{
+    -fx-background-color:#FAA19B;
+}
+.default{
+    -fx-background-color:#e7e7e7;
+}
+.direct{
+    -fx-background-color:#9dd1ff;
+}
+.background{
+    -fx-background-color: #CDE1E4;
+}
